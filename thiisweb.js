@@ -193,7 +193,7 @@ tl9.from("section",{
     duration:1.2
 },"a")
 
-tl9.from(,{
+tl9.from("#section2",{
     opacity:0,
     duration:1.2
 },"a")
