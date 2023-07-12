@@ -1,1 +1,1 @@
-# thisisdigital just a  clone landing page of this is digital
+# just a  clone landing page of this is digital
